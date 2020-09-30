@@ -1,0 +1,6 @@
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\ObjectTransferJson\bin\Debug\ObjectTransferJson.exe
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\ObjectTransferJson\bin\Debug\ObjectTransferJson.pdb
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\ObjectTransferJson\obj\Debug\ObjectTransferJson.csprojAssemblyReference.cache
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\ObjectTransferJson\obj\Debug\ObjectTransferJson.csproj.CoreCompileInputs.cache
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\ObjectTransferJson\obj\Debug\ObjectTransferJson.exe
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\ObjectTransferJson\obj\Debug\ObjectTransferJson.pdb

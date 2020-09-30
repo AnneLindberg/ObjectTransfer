@@ -1,0 +1,15 @@
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\bin\Debug\Object_Transfer.exe.config
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\bin\Debug\Object_Transfer.exe
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\bin\Debug\Object_Transfer.pdb
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\obj\Debug\Object Transfer.csprojAssemblyReference.cache
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\obj\Debug\MainWindow.g.cs
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\obj\Debug\App.g.cs
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\obj\Debug\Object_Transfer_MarkupCompile.cache
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\obj\Debug\Object_Transfer_MarkupCompile.lref
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\obj\Debug\MainWindow.baml
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\obj\Debug\Object_Transfer.g.resources
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\obj\Debug\Object_Transfer.Properties.Resources.resources
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\obj\Debug\Object Transfer.csproj.GenerateResource.cache
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\obj\Debug\Object Transfer.csproj.CoreCompileInputs.cache
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\obj\Debug\Object_Transfer.exe
+C:\Users\aans\RiderProjects\Own projects\Object Transfer\Object Transfer\obj\Debug\Object_Transfer.pdb
